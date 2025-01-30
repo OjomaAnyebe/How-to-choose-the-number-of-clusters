@@ -27,5 +27,4 @@ This repository contains my **Udemy Data Science exercise** on selecting the opt
 ![download](https://github.com/user-attachments/assets/7fdd1ff6-ffbd-4911-aef1-c9dc457b5d7f)
 ![download](https://github.com/user-attachments/assets/7328ac0a-8153-420b-a7e6-b3c690c89d90)
 ![download](https://github.com/user-attachments/assets/7b176b33-b65d-4d36-a05b-04583a7a7567)
-![download](https://github.com/user-attachments/assets/aeeb1a78-8dab-44e0-9025-07d721e348e2)
-
+![download](https://github.com/user-attachments/assets/0d20c5eb-bea2-4918-8dac-7c303310f314)
