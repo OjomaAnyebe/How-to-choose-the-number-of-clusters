@@ -1,7 +1,7 @@
 # Choosing the Number of Clusters - K-Means Clustering
 
 📌 **About this Exercise**  
-This repository contains my **Udemy Data Science exercise** on selecting the optimal number of clusters in **K-Means Clustering**. The goal is to determine the best cluster count using the **Elbow Method**.
+This repository contains my **Udemy Data Science exercise** on selecting the optimal number of clusters in **K-Means Clustering**. The goal is to determine the best cluster count using the **Elbow Method** on a "countries" dataset.
 
 ---
 
